@@ -1,0 +1,5 @@
+WEBSOCKET ws://localhost:8080/chat
+{"type": "message", "content": "Hello, WebSocket!"}
+
+###
+WEBSOCKET ws://localhost:8080/chat
